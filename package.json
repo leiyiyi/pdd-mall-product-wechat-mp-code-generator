@@ -1,0 +1,27 @@
+{
+  "name": "pdd-mall-product-wechat-mp-code-generator",
+  "version": "1.0.0",
+  "description": "拼多多店铺和商品的小程序码生成器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pdd",
+    "miniapp",
+    "qrcode"
+  ],
+  "author": {
+    "name": "leiyi",
+    "email": "leiyibeyond@qq.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leiyiyi/pdd-mall-product-wechat-mp-code-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/leiyiyi/pdd-mall-product-wechat-mp-code-generator/issues"
+  },
+  "homepage": "https://github.com/leiyiyi/pdd-mall-product-wechat-mp-code-generator#readme"
+}
