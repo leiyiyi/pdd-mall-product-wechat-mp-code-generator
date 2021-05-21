@@ -1,0 +1,14 @@
+{
+  "mallId": 12345,
+  "mallName": "某某店铺",
+  "mallGoods": [
+    {
+      "goodsId": "111",
+      "goodsName": "品名1"
+    },
+    {
+      "goodsId": "222",
+      "goodsName": "品名2"
+    }
+  ]
+}

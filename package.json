@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/leiyiyi/pdd-mall-product-wechat-mp-code-generator/issues"
   },
-  "homepage": "https://github.com/leiyiyi/pdd-mall-product-wechat-mp-code-generator#readme"
+  "homepage": "https://github.com/leiyiyi/pdd-mall-product-wechat-mp-code-generator#readme",
+  "dependencies": {
+    "enquirer": "^2.3.6",
+    "qrcode": "^1.4.4"
+  }
 }
